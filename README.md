@@ -1,5 +1,5 @@
 # 💫 About Me:
-I am B.tech undergraduate cse student<br>I am intereseted in web dev and aiml<br>I am pursuing my B.tech from MNNIT ,ALLAHABAD<br>
+I am B.tech undergraduate cse student , pursuing my B.tech from MNNIT ,ALLAHABAD <br>An Aiml enthusiast
 
 
 ## 🌐 Socials:
